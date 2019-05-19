@@ -2,7 +2,11 @@
  * Equally weighted hash algorithm
  * O(n) beats 99.21% C++ solutions
  */
+<<<<<<< HEAD
 #include <algorithm>
+=======
+#include <algorithm> //Reverse string objects
+>>>>>>> 997459b0b331241d258a2249f8c4f1a006b26168
 using namespace std;
 class Solution {
 public:
