@@ -1,3 +1,6 @@
+/* Hash Table Solution (uses O(n) space)
+ * Runtime: 8ms beats 99.24% of C++ submissions
+ */
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
